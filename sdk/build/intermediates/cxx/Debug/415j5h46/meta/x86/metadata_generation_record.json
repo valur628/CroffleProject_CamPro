@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 550183060
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\.cxx\\Debug\\415j5h46\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2052214915
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 342072225
+  }
+]

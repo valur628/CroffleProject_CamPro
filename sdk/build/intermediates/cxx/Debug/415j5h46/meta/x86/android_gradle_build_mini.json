@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:/Users/park ju cheol/AppData/Local/Android/Sdk/cmake/3.18.1/bin/ninja.exe",
+      "-C",
+      "C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\.cxx\\Debug\\415j5h46\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\park ju cheol\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\.cxx\\Debug\\415j5h46\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "C:\\Users\\park ju cheol\\AndroidStudioProjects\\CroffleProject_CamPro\\sdk\\.cxx\\Debug\\415j5h46\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
